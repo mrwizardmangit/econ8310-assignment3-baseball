@@ -1,0 +1,7 @@
+*.mov
+*.mp4
+*_frames/
+__pycache__/
+*.ipynb
+*.xml
+*.pth
